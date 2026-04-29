@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sunandakadam.github.io/mindfull-living-coach",
+  "homepage": "https://sunandakadam.github.io/mindfull-healing-coach/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
